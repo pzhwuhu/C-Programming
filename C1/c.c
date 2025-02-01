@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main() {
+  int n, m;
+  scanf("%d%d", &n, &m);
+  printf("%d\n", 2 * m - n);
+  if (2 * m - n)
+    printf("Yes");
+  else
+   printf("No");
+}
