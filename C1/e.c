@@ -10,4 +10,5 @@ int main() {
     else
       printf("Wait. That's illegal.\n");
   }
+  return 0;
 }

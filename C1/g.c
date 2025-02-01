@@ -12,5 +12,6 @@ int main() {
 
     num += 1;
   }
-  printf("%d",num);
+  printf("%d", num);
+  return 0;
 }
