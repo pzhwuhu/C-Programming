@@ -2,6 +2,6 @@
 int main() {
   int n;
   while (scanf("%d", &n) != EOF) {
-    printf("%c\n",n);
+    printf("%c\n",(char)n);
   }
 }
