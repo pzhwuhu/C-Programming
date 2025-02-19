@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//将十进制下的 a 用 X 进制表示
 void printInBase(unsigned int a, int X) {
   int digits[32];
   int index = 0;
